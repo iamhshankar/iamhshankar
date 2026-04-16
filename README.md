@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Harishankar<br>👀 I have a deep interest in Programming,Tech and Businesses.<br>🌱 I’m currently a Front end Developer<br>📫 You can reach me on linkedin @imhshankar<br>😄 Nickname: Raj Pandey
+👋 Hi, I’m Harishankar<br>👀 I have a deep interest in Programming,Tech and Businesses.<br>🌱 I’m currently a Data Analyst<br>📫 You can reach me on linkedin @imhshankar<br>😄 Nickname: Raj Pandey
 
 
 ## 🌐 Socials:
